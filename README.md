@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/q263h2ex0e9emkf6?svg=true)](https://ci.appveyor.com/project/Samohin13/app-mbank)
